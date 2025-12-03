@@ -1,0 +1,7 @@
+{
+  "name": "FairShare - AI Bill Splitter",
+  "description": "A smart, mobile-first bill splitting application designed for dining. Features AI receipt scanning using Gemini 2.5 Flash, fair tax/tip distribution, and instant breakdown generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
